@@ -42,11 +42,14 @@ Insert Wojciech comments from IGDORE
 
 ## Key files
 
-* Partnerships
-* Contributing guidelines
-* Projects
-
-
+* [Partnerships](partnersips.md) - Details of the different forms of partnership that contribute to this project.
+* [Contributing guidelines](contributing.md) - How to contribute to the development of the OSA.
+* [Projects](projects.md) - The different projects for which the OSA forms an umbrella to.
+* [Feedback mechanism](feedback.md) - Mechanisms for providing feedback to the OSA.
+* [Privacy](privacy.md) - User privacy information.
+* [Membership](membership.md) - How to become a member of the OSA.
+* [Funding strategy](funding.md) - Our funding strategy and expenditures.
+* [Roadmap](roadmap.md) - Our development plan for this project.
 
 ## Licenses <a name="Licenses"></a>
 
