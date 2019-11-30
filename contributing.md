@@ -1,0 +1,1 @@
+Right now you are ready to contribute. Our current tasks are grouped in Github projects as standard Kanban boards. If you are taking care of a task - move it to "currently doing" and assign it to yourself. Moving a card to "Done" column is addictively satisfying - [try it yourself! :)](https://github.com/open-science-academy/Orga/projects/1) 
