@@ -57,8 +57,13 @@ The founding members include:
 
 ## Code of Conduct <a name="#coc"></a>
 
-Insert Wojciech comments from IGDORE blog post
+Our Code of Conduct is simple. We expect the highest ethical standards for both research and all other aspects of life. These are our guidelines:
 
+* We follow the rule of the law, and believe this is sufficient for our CoC.
+* In general, we expect people to behave like well-socialised and mature adults within this community.
+* We believe that this includes talking to each other should an incident occur as a first means of conflict resolution.
+* Only if the above fails, will the founding members of the OSA intervene. Resolution to ensure that we can all co-exist peacefully together will always be our priority.
+* Any issues that arise that break the law should be reported to the relevant authorities following traditional procedures.
 
 ## Key files <a name="#files"></a>
 
@@ -77,8 +82,8 @@ Insert Wojciech comments from IGDORE blog post
 ## Licenses <a name="Licenses"></a>
 
 ### Content 
-MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### Website
 
-MOOC content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+Website license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
