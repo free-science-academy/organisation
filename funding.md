@@ -4,7 +4,7 @@
 
 *	Indiegogo/Kickstarter crowdfunding project
 *	Open Society Foundations (https://www.opensocietyfoundations.org/about/programs/open-society-initiative-europe) 
-
+* 
 
 ### Our costs
 
@@ -12,6 +12,8 @@
 *	Registration Fee in the Vereinsregister (around 75 EUR)
 * Website domain and certification: 
 * Swag: 
+* Mattermost hosting:
+* GitLab hosting: 
 
 
 ### Revenue sources
