@@ -1,6 +1,6 @@
 # Organisation
 
-Welcome to the *Open Science Academy*! 
+Welcome to the *Free Science Academy*! 
 
 This repository contains all of our organisational tasks and files.
 
@@ -15,19 +15,21 @@ This repository contains all of our organisational tasks and files.
 
 ## Rationale <a name="rationale"></a>
 
-The [Berlin Open Science Meetup community](https://www.meetup.com/Berlin-Open-Science-Meetup/) has now been active for around 5 years and has almost XXX members. A number of informal ‘open science communities’ are now springing up all around Europe and the rest of the world. Most of these remain informal groups, associated with research institutes,
+The [Berlin Open Science Meetup community](https://www.meetup.com/Berlin-Open-Science-Meetup/) has now been active for around 5 years and has more than 800 members. We consider this initiative to be largely a success. A number of informal ‘open science communities’ are now springing up all around Europe and the rest of the world. Most of these remain informal groups, associated with research institutes,
 
-In order to take this to the next level, and demonstrate leadership in this space, we propose transforming the informal meetup group into a formal society, or [Verein](https://www.tbd.community/en/a/how-to-found-verein-charity-germany) -  a legal form of charitable organisation based in Germany. 
+In order to take this to the next level, and demonstrate leadership in this space, we propose transforming the informal meetup group into a formal society, or [Verein](https://www.tbd.community/en/a/how-to-found-verein-charity-germany) -  a legal form of charitable organisation based in Germany. Our goal is to move beyond informal meetings and our own little advocacy bubble, and to help engage researchers and wider society in the principles, values, and practices associated with 'open science'.
 
-Our proposal for this is the development of the *Open Science Academy*.
+Our proposal for this is the development of the *Free Science Academy*, or FSA for short.
 
-This would help to legitimise the community, and give more recognition to open research practices. The primary expected outcome is the more structured growth of the community by providing a more comfortable and legal structure to be part of.
+It is our understanding that, whatever the 'open science community' is, it is disorganised and fragmented, both internally and externaly and particularly with its messaging. Unlike the Free and Open Source Software movements, we feel it does not have the same philosophical underpinnings to help unite the community. We see our unique role in this space to formalise, legitimise, and coalesce the existing community and communities. The FSA represents a fully democratic and decentralised organisation.
 
-We believe that it only takes a small number of caring, thoughtful, and committed citizens to become influential in society. 
+This would help to legitimise the community, and give more recognition to open research practices. The primary expected outcome is the more structured growth of the community by providing a more comfortable and legal structure to be part of. We believe this is required to transform 'open science', 'open scholarship, and 'open research' into a real, formalised community.
+
+We believe that it only takes a small number of caring, thoughtful, and committed citizens to become influential in society and catalyse real change for good. 
 
 ## Mission statement <a name="#mission"></a>
 
-The OSA is a resurgence of the [Society for Free Science](https://www.nature.com/articles/154048a0), established in 1940 but now long since gone. We follow a revised version of their 5 core propositions:
+The FSA is an informal resurgence of the [Society for Free Science](https://www.nature.com/articles/154048a0), established in 1940 but now long since gone. We follow a revised version of their 5 core propositions:
 
 1. Increase of knowledge by scientific research and its diffusion have a primary human value; 
 2. science can only flourish in an atmosphere of freedom; 

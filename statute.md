@@ -1,7 +1,7 @@
 ## Statute
 
-Satzung   des Vereins: Open Science Academy e.V.
-Statute of the association: Open Science Academy e.V.
+Satzung   des Vereins: Free Science Academy e.V.
+Statute of the association: Free Science Academy e.V.
 
 § 1 - Name und Sitz des Vereins
 § 1 - name and seat of the association

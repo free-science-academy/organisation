@@ -1,10 +1,10 @@
-Right now you are ready to contribute. Our current tasks are grouped in Github projects as standard Kanban boards. If you are taking care of a task - move it to "currently doing" and assign it to yourself. Moving a card to "Done" column is addictively satisfying - [try it yourself! :)](https://github.com/open-science-academy/Orga/projects/1) 
-
-
 # Contribution Guidelines
-These are the main contributing guidelines for the development of this project.
 
-Feedback and contributions of any form are welcomed. Feel free also to [contact us](mailto:) to discuss anything further.
+These are the main contributing guidelines for the development of this project. We primarily use GitHub for its massive power in version controlled project management.
+
+Feedback and contributions of any form are welcomed. Feel free also to [contact us](mailto:wolass@gmail.com) to discuss anything further.
+
+Right now you are ready to contribute. Our current tasks are grouped in Github projects as standard Kanban boards. If you are taking care of a task - move it to "currently doing" and assign it to yourself. Moving a card to "Done" column is addictively satisfying - [try it yourself! :)](https://github.com/free-science-academy/organisation/projects/1) 
 
 
 ## Reporting issues
@@ -13,6 +13,7 @@ Feedback and contributions of any form are welcomed. Feel free also to [contact 
 - **Share as much information as possible.** Include operating system and version, browser and version. Also, include steps to reproduce the bug.
 
 ## Project Setup
+
 Refer to the [README](README.md).
 
 ## Content style

@@ -1,11 +1,24 @@
 ## Projects
 
-These are the core projects within the OSA. Each of them are completely open for anyone to contribute to:
+The whole point of the FSA is to combine pragmatism with ideology, principles with practices. We practice what we preach. We see this in two ways. Firstly, to demonstrate that we, as a society, are actually doing things to progress freedom in science. Seondly, for our members and those associated with us to be able to pragmatically receive credit for devoting part of their time to us.
 
-* Open Science Skills training
+These are the core projects within the FSA. Each of them are completely open for anyone to contribute to:
+
+* Open Science Skills training for researchers
 *	Finding Oriented Research (Nanopublications)
-*	Foundations for Open Scholarship Strategy Development (?)
-*	Strategy dev for open universities in transitional regions (post-conflict) (not sure where this came from)
-
+*	[Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/)
+*	Strategy dev for open universities in transitional regions (post-conflict) (JT: not sure where this came from)
+* Open Scholarship Consultancy (note: IGDORE and A2P can be used here)
 
 ### More detailed descriptions and information for each
+
+1. Open Science skills training
+
+The simple goal here is to educate people properly about how to do science.
+
+
+### Potential future project ideas
+
+* A meta-review on the status of misconduct in science?
+* Patterns of 'open practices' across different research areas
+* Who suffers most from existing power structures in academia

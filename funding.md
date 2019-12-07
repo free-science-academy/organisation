@@ -6,7 +6,7 @@
 *	Open Society Foundations (https://www.opensocietyfoundations.org/about/programs/open-society-initiative-europe) 
 * 
 
-### Our costs
+### Our costs/budget
 
 *	Notary fees (around 30 EUR)
 *	Registration Fee in the Vereinsregister (around 75 EUR)
@@ -19,6 +19,10 @@
 ### Revenue sources
 
 1. Membership fees:
+
+Proposal: €20/year membership, flat universal rate
+
+Fee waivers: No questions asked upon request
 
 2. Consulting services:
 
