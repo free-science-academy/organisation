@@ -33,7 +33,7 @@ The OSA is a resurgence of the [Society for Free Science](https://www.nature.com
 4. Conditions of research appointments should give workers freedom to choose their own problems; 
 5. scientific people in countries not under dictatorial rule should co-operate to maintain freedom of research.
 
-### Principles we follow:
+### Principles, virtues, and values that we follow and uphold:
 
 Integrity - 
 
@@ -41,19 +41,17 @@ Freedom -
 
 Accountability - 
 
-Our core values:
-
 Honesty - 
 
 Truth - 
 
 Justice - 
 
-Virtues that we uphold:
-
 Tolerance - 
 
 Patience - 
+
+Forgiveness - 
 
 
 

@@ -43,9 +43,15 @@ These are the taskforces and their associated Heads:
 
 ### Proposals for "nucleus" members (31)
 
+Note: Go for approximately even geographic distribution
+
 * Brian Nosek
 * Martin Eve (note, health issues)
 * Caroline Edwards
 * Christina Reisenweber
 * Lorena Barba
-* Sury Darma
+* Surya Darma
+* Rebecca Willen
+* Tony Ross-Hellauer
+* Thomas Landrain
+* Someone from Education International

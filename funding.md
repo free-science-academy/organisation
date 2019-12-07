@@ -13,3 +13,5 @@
 
 *	Notary fees (around 30 EUR)
 *	Registration Fee in the Vereinsregister (around 75 EUR)
+* Website domain and certification: 
+* Swag: 
