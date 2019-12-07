@@ -61,7 +61,14 @@ These are the taskforces and their associated Heads:
 
 ### Proposals for "nucleus" members (31)
 
-Note: Go for approximately even geographic distribution
+Note: Go for approximately even geographic distribution. Make sure at the bear minimum all 'regions' are represented.
+
+Characteristics of these individuals:
+* Absolutely trustworthy and honest
+* Professional work involving 'freedom of knowledge' somehow
+* Known to uphold high ethical standards of conduct
+
+Proposed individuals:
 
 * Brian Nosek, USA
 * Caroline Edwards, UK
@@ -79,3 +86,22 @@ Note: Go for approximately even geographic distribution
 * Tobias Steiner, Germany
 * Benedikt Fecher, Germany
 * cooper Smout, Australia
+* Gareth O'Neill, Ireland
+* Veronique de Herde, Belgium
+* Muki Haklay, Israel
+* Dusan Misevic, Serbia
+* Liubov Tupikina, Russia
+* Bastian Greshake, Germany
+* Antonio Hartley, Chile
+* Alicia Fatima Gomez, Spain
+* Lisa Hsu, Taiwan
+* Chris Erdmann, USA
+* Bruce Caron, USA
+* Danny Colin, Canada
+* Simon Worthington, UK
+* Björn Brembs, Germany
+* Stephanie Dawson, USA
+* Peter Murray-Rust, UK
+* Cameron Neylon, Australia
+* Daniel Lakens, Netherlands
+* Dasapta Erwin Irawan, Indonesia
