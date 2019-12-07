@@ -26,6 +26,16 @@ The founding members include:
 
 We note that each of the founding members are from Europe. This is simply because this is where we each grew up, and who we have adopted as friends and close colleagues during our time working on 'open science'. The founding members represent a close group of individuals that we know are strong together, and can collaborate with trust and make this project succeed.
 
+### Roles of founding members
+
+* Technical Officer: To maanage and support the daily technical operations of the FSA.
+* Advocacy Officer: To co-ordinate and support the public and political advocacy of the FSA and its members.
+* Integrity Officer: To make sure that the FSA conducts itself with absolute integrity.
+* Financial Officer: To assist with the funding and budgetary requirements of the FSA.
+* Community Officer: To support the development of the FSA community.
+* Communications Officer: To implement the [Communications Strategy]() for the FSA
+* Taskforce Officer: To manage and support the various taskforce responsibilities for the FSA.
+
 ### Responsibilities
 
 Each of the three groups have their own responsibilities, that overlap to a certain extent with the other groups.
@@ -105,3 +115,5 @@ Proposed individuals:
 * Cameron Neylon, Australia
 * Daniel Lakens, Netherlands
 * Dasapta Erwin Irawan, Indonesia
+* Michelle Brook, UK
+* Jan Velterop, Netherlands
