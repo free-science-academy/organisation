@@ -9,12 +9,28 @@ These are the core projects within the FSA. Each of them are completely open for
 *	[Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/)
 *	Strategy dev for open universities in transitional regions (post-conflict) (JT: not sure where this came from)
 * Open Scholarship Consultancy (note: IGDORE and A2P can be used here)
+* We are the primary maintainers for the [Open Science subreddit](https://www.reddit.com/r/Open_Science/)
 
 ### More detailed descriptions and information for each
 
 1. Open Science skills training
 
 The simple goal here is to educate people properly about how to do science.
+
+2. Founding Oriented Research
+
+Project in development
+
+3. Foundations for Open Scholarship Strategy Development
+
+This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.
+
+4. OPen Scholarship Consultancy
+
+
+5. Open Science subreddit
+
+This subreddit collates the latest from the world of "open science"", including but not limited to open access, open data, open education, open peer review, and open source.
 
 
 ### Potential future project ideas

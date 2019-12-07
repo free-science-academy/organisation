@@ -65,15 +65,17 @@ The founding members include:
 
 * Wojciech F
 * Jon T
-* Anna K
-* Peter G
-* Paola M
-* Ivo G
-* Erzsebet T-C
+* AK
+* PG
+* PM
+* IG
+* ET
 
 ## Code of Conduct <a name="#coc"></a>
 
-Our Code of Conduct is simple. We expect the highest ethical and moral standards for both research and all other aspects of life. We do not impose personal rules of conduct on any individual, save those that we expect within a well-functioning, mature society. These are our guidelines:
+Our Code of Conduct is simple. We expect the highest ethical and moral standards for both research and all other aspects of life. We do not impose personal rules of practical conduct on any individual, save those that we expect within a well-functioning, mature society. 
+
+These are our guidelines, and they apply to all offline and online events and spaces regarding the FSA:
 
 * We follow the rule of the law, and believe this is sufficient for our CoC.
 * In general, we expect people to behave like well-socialised and mature adults within this community.
@@ -84,20 +86,20 @@ Our Code of Conduct is simple. We expect the highest ethical and moral standards
 ## Key files <a name="#files"></a>
 
 * [Partnerships](partnersips.md) - Details of the different forms of partnership that contribute to this project.
-* [Contributing guidelines](contributing.md) - How to contribute to the development of the OSA.
-* [Projects](projects.md) - The different projects for which the OSA forms an umbrella to.
+* [Contributing guidelines](contributing.md) - How to contribute to the development of the FSA.
+* [Projects](projects.md) - The different projects for which the FSA forms an umbrella to.
 * [Feedback mechanism](feedback.md) - Mechanisms for providing feedback to the OSA.
 * [Privacy](privacy.md) - User privacy information.
-* [Membership](membership.md) - How to become a member of the OSA.
+* [Membership](membership.md) - How to become a member of the FSA.
 * [Funding strategy](funding.md) - Our funding strategy and expenditures.
 * [Roadmap](roadmap.md) - Our development plan for this project.
 * [Governance](governance.md) - What is the management structure for this project.
 * [License](license.md) - License information for this repository.
-* [Statute](statute.md) - The bylaws for the OSA.
+* [Statute](statute.md) - The bylaws for the FSA.
 
 ## Archiving
 
-Full archiving of this project can be found on [Zenodo](https://zenodo.org/communities/free-science-academy/).
+Full archiving of this project can be found on our dedicated [Zenodo community](https://zenodo.org/communities/free-science-academy/).
 
 ## Licenses <a name="Licenses"></a>
 
@@ -105,5 +107,4 @@ Full archiving of this project can be found on [Zenodo](https://zenodo.org/commu
 Content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### Website
-
 Website license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
