@@ -93,6 +93,10 @@ Our Code of Conduct is simple. We expect the highest ethical and moral standards
 * [License](license.md) - License information for this repository.
 * [Statute](statute.md) - The bylaws for the OSA.
 
+## Archiving
+
+Full archiving of this project can be found on [Zenodo](https://zenodo.org/communities/free-science-academy/).
+
 ## Licenses <a name="Licenses"></a>
 
 ### Content 
