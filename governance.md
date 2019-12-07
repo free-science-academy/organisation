@@ -48,3 +48,4 @@ These are the taskforces and their associated Heads:
 * Caroline Edwards
 * Christina Reisenweber
 * Lorena Barba
+* Sury Darma

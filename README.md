@@ -25,15 +25,29 @@ This would help to legitimise the community, and give more recognition to open r
 
 ## Mission statement <a name="#mission"></a>
 
-Principles we follow:
+The OSA is a resurgence of the [Society for Free Science](https://www.nature.com/articles/154048a0), established in 1940 but now long since gone. We follow a revised version of their 5 core propositions:
+
+1. Increase of knowledge by scientific research and its diffusion have a primary human value; 
+2. science can only flourish in an atmosphere of freedom; 
+3. Scientific life should be autonomous; 
+4. Conditions of research appointments should give workers freedom to choose their own problems; 
+5. scientific people in countries not under dictatorial rule should co-operate to maintain freedom of research.
+
+### Principles we follow:
 
 Integrity - 
+
+Freedom - 
+
+Accountability - 
 
 Our core values:
 
 Honesty - 
 
 Truth - 
+
+Justice - 
 
 Virtues that we uphold:
 
@@ -57,7 +71,7 @@ The founding members include:
 
 ## Code of Conduct <a name="#coc"></a>
 
-Our Code of Conduct is simple. We expect the highest ethical standards for both research and all other aspects of life. These are our guidelines:
+Our Code of Conduct is simple. We expect the highest ethical and moral standards for both research and all other aspects of life. We do not impose personal rules of conduct on any individual, save those that we expect within a well-functioning, mature society. These are our guidelines:
 
 * We follow the rule of the law, and believe this is sufficient for our CoC.
 * In general, we expect people to behave like well-socialised and mature adults within this community.
