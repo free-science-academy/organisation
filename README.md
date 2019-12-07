@@ -23,6 +23,8 @@ Our proposal for this is the development of the *Open Science Academy*.
 
 This would help to legitimise the community, and give more recognition to open research practices. The primary expected outcome is the more structured growth of the community by providing a more comfortable and legal structure to be part of.
 
+We believe that it only takes a small number of caring, thoughtful, and committed citizens to become influential in society. 
+
 ## Mission statement <a name="#mission"></a>
 
 The OSA is a resurgence of the [Society for Free Science](https://www.nature.com/articles/154048a0), established in 1940 but now long since gone. We follow a revised version of their 5 core propositions:
@@ -39,21 +41,21 @@ Integrity -
 
 Freedom - 
 
-Accountability - 
+Accountability - We accept full responsibility for our actions and behaviours.
 
-Honesty - 
+Honesty - We never intentionally deceive or mislead others.
 
-Truth - 
+Truth - We always strive to ascertain the truth, no matter the situation.
 
 Justice - 
 
-Tolerance - 
+Tolerance - We are accepting of all individuals, no matter what their views or backgrounds are.
 
 Patience - 
 
-Forgiveness - 
+Forgiveness - Any transgression can be forgiven.
 
-
+Courage - We stand up for what we believe in.
 
 ## Core team <a name="#team"></a>
 
