@@ -4,7 +4,7 @@
 
 *	Indiegogo/Kickstarter crowdfunding project
 *	Open Society Foundations (https://www.opensocietyfoundations.org/about/programs/open-society-initiative-europe) 
-* 
+* ISC: https://council.science/actionplan/defending-the-free-and-responsible-practice-of-science/
 
 ### Our costs/budget
 
