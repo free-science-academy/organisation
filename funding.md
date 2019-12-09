@@ -10,7 +10,7 @@
 
 *	Open Society Foundations and the [Open Society Initiative](https://www.opensocietyfoundations.org/about/programs/open-society-initiative-europe)
 
-* [Shuttlewroth Foundation Fellowship Program](https://shuttleworthfoundation.org/fellows/)
+* [Shuttleworth Foundation Fellowship Program](https://shuttleworthfoundation.org/fellows/)
 
 * [SCOSS](https://scoss.org/), the Global Sustainability Coalition for Open Science Services
 
