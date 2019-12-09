@@ -108,6 +108,7 @@ These are our guidelines, and they apply to all offline and online events and sp
 * [Privacy](privacy.md) - User privacy information.
 * [Membership](membership.md) - How to become a member of the FSA.
 * [Funding strategy](funding.md) - Our funding strategy and expenditures.
+* [Communication strategy](communications.md) - Our protocol for communication efforts.
 * [Roadmap](roadmap.md) - Our development plan for this project.
 * [Governance](governance.md) - What is the management structure for this project.
 * [License](license.md) - License information for this repository.
