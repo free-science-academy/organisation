@@ -34,6 +34,7 @@ Help us to scale up development
 *	Blockchain for Science
 *	Akademie der Wissenschaften
 *	Open Scholarship Initiative - maybe we can be a daughter project?
+http://opensciencefoundation.eu/ 
 
 
 ## Proposals for institional partners
