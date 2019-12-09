@@ -10,6 +10,7 @@ These are the core projects within the FSA. Each of them are completely open for
 *	Strategy dev for open universities in transitional regions (post-conflict) (JT: not sure where this came from)
 * Open Scholarship Consultancy (note: IGDORE and A2P can be used here)
 * We are the primary maintainers for the [Open Science subreddit](https://www.reddit.com/r/Open_Science/)
+* Free Science videocast/webcast/podcast and webinar series
 
 ### More detailed descriptions and information for each
 
@@ -32,9 +33,15 @@ This document aims to agree on a broad, international strategy for the implement
 
 This subreddit collates the latest from the world of "open science"", including but not limited to open access, open data, open education, open peer review, and open source.
 
+6. Free Science vidcast
+
 
 ### Potential future project ideas
 
-* A meta-review on the status of misconduct in science?
+* A meta-review on the status of misconduct in science
+
 * Patterns of 'open practices' across different research areas
+
 * Who suffers most from existing power structures in academia
+
+* Investigating the links between Open Source and Open Science
