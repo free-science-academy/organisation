@@ -56,6 +56,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 
 - TBC, includes platforms/services that we can cross-post to
 
+
 ## Protocol
 
 1. For new announcements, share on social media, dedicated mailing list, and externail mailing lists
@@ -65,6 +66,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 3. Produce podcast/vidcast to accompany all announcements
 
 4. Post regular information/updates across all social media channels
+
 
 ## Messaging
 
