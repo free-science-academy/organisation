@@ -1,8 +1,16 @@
-## Communications strategy
+---
+title: "Community Strategy"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 
 This strategy describes the protocol used regarding all public-facing communications regarding the FSA.
 
-### Primary mailing lists for messaging
+## Primary mailing lists for messaging
 
 * [Schol Comm](mailto:scholcomm@lists.ala.org)
 * [Open Science](mailto:open-science@lists.okfn.org)
@@ -21,7 +29,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 ## Our social media channels
 - TBC
 
-### Relevant Twitter organisations
+## Relevant Twitter organisations
 
 * [LIBER](https://twitter.com/LIBEReurope)
 * [EIFL](https://twitter.com/EIFLnet)
@@ -34,21 +42,21 @@ This strategy describes the protocol used regarding all public-facing communicat
 * [Mozilla Open Leaders](https://twitter.com/mozopenleaders)
 * [OKFN](https://twitter.com/OKFN)
 
-### Press and media contacts
+## Press and media contacts
 
 - TBC
 
 
-### Dedicated mailing list
+## Dedicated mailing list
 
 - TBC, combine with membership?
 
 
-### Other non-social media
+## Other non-social media
 
 - TBC, includes platforms/services that we can cross-post to
 
-### Protocol
+## Protocol
 
 1. For new announcements, share on social media, dedicated mailing list, and externail mailing lists
 
@@ -58,7 +66,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 
 4. Post regular information/updates across all social media channels
 
-### Messaging
+## Messaging
 
 * We are the first organisation to operate as a community-lef society within the free/open science space
 
@@ -73,3 +81,10 @@ This strategy describes the protocol used regarding all public-facing communicat
 * We base ourselves on strong underpinnings relating to fundamental freedoms in science
 
 * We are fully democratic and decentralised in how we operate
+
+
+### Positive or constructive messages
+
+
+
+### Negative or destructive messages
