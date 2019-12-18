@@ -117,3 +117,5 @@ Proposed individuals:
 * Dasapta Erwin Irawan, Indonesia
 * Michelle Brook, UK
 * Jan Velterop, Netherlands
+* William Gunn, USA
+* Etienne LeBel, Canada

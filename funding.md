@@ -28,6 +28,8 @@
 
 * [Mozilla Science Fellowship](https://science.mozilla.org/programs/fellowships)
 
+* From the [EU](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/swafs-08-2019-2020;freeTextSearchKeyword=;typeCodes=1;statusCodes=31094501,31094502;programCode=H2020;programDivisionCode=31048026;focusAreaCode=null;crossCuttingPriorityCode=null;callCode=Default;sortQuery=openingDate;orderBy=asc;onlyTenders=false;topicListKey=topicSearchTablePageState)
+
 ### Other potential sources 
 
 * International Science Council and their new [action plan](https://council.science/actionplan/defending-the-free-and-responsible-practice-of-science/) for the free and responsible practice of science.
