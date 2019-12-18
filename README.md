@@ -70,6 +70,7 @@ The founding members include:
 
 ## Key files <a name="files"></a>
 
+* [About us](about-us.md) - Details about the founding members 
 * [Partnerships](partnerships.md) - Details of the different forms of partnership that contribute to this project.
 * [Contributing guidelines](contributing.md) - How to contribute to the development of the FSA.
 * [Code of Conduct](code-of-conduct.md) - The morals and values that we expect the community to adhere to.
