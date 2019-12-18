@@ -1,5 +1,5 @@
 ---
-title: "Givernance Structure"
+title: "Governance Structure"
 author: "Jon Tennant"
 date: "18 December 2019"
 output:
@@ -37,6 +37,10 @@ Each of the three groups have their own responsibilities, that overlap to a cert
 2. Nucleus: To demonstrate what we stand for, by associating our reputation with specific individuals, and their values and work.
 
 3. Cloud: To make free science normative around the world.
+
+### Free Science Ambassadors
+
+TBC
 
 ### Proposals for "nucleus" members (31)
 
