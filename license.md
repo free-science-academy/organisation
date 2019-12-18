@@ -1,3 +1,13 @@
+---
+title: "License"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
 CC0 1.0 Universal
 
 Statement of Purpose

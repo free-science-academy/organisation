@@ -1,4 +1,12 @@
-## Statute
+---
+title: "Statute"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 
 Satzung   des Vereins: Free Science Academy e.V.
 Statute of the association: Free Science Academy e.V.

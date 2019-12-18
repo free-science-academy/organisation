@@ -1,8 +1,11 @@
 ---
-title: "About us"
+title: "About Us"
 author: "Jon Tennant"
 date: "18 December 2019"
-output: html_document
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
 ---
 
 ### Founding members

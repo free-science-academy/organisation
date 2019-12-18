@@ -1,4 +1,12 @@
-## Partnerships
+---
+title: "Partnerships"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 
 At this stage, we have proposals for partners at different levels. These levels include:
 
@@ -6,19 +14,19 @@ At this stage, we have proposals for partners at different levels. These levels 
 2. Strategic partners
 3. Institutional partners
 
-### Funders and sponsors
+## Funders and sponsors
 
-Help with financial and legal aspects behind the OSA
-
-
-### Strategic partners
-
-Help us implement the vision of universal Open Science
+Function: Help with financial and legal aspects behind the OSA
 
 
-### Institional partners
+## Strategic partners
 
-Help us to scale up development
+Function: Help us implement the vision of universal Open Science
+
+
+## Institional partners
+
+Function: Help us to scale up development
 
 
 ## Proposals for strategic partners
@@ -34,7 +42,8 @@ Help us to scale up development
 *	Blockchain for Science
 *	Akademie der Wissenschaften
 *	Open Scholarship Initiative - maybe we can be a daughter project?
-http://opensciencefoundation.eu/ 
+* http://opensciencefoundation.eu/ 
+* Software Sustainability Institute
 
 
 ## Proposals for institional partners

@@ -82,7 +82,6 @@ The founding members include:
 * [Communication strategy](communications.md) - Our protocol for communication efforts.
 * [Roadmap](roadmap.md) - Our development plan for this project.
 * [Governance](governance.md) - What is the management structure for this project.
-* [License](license.md) - License information for this repository.
 * [Statute](statute.md) - The bylaws for the FSA.
 
 ## Archiving <a name="archiving"></a>
@@ -90,6 +89,8 @@ The founding members include:
 Full archiving of this project can be found on our dedicated [Zenodo community](https://zenodo.org/communities/free-science-academy/).
 
 ## Licenses <a name="licenses"></a>
+
+See [License](license.md) for information for this repository. We wave all rights to all original content for the FSA. We ask that if you use any of our content, you let us know and acknowledge us, but you are under no legal rights to do so.
 
 ### Content 
 Content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

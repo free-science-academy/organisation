@@ -1,4 +1,12 @@
-## Projects
+---
+title: "Projects"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 
 The whole point of the FSA is to combine pragmatism with ideology, principles with practices. We practice what we preach. We see this in two ways. Firstly, to demonstrate that we, as a society, are actually doing things to progress freedom in science. Seondly, for our members and those associated with us to be able to pragmatically receive credit for devoting part of their time to us.
 

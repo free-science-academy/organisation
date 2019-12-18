@@ -1,5 +1,5 @@
 ---
-title: "Feedback mechamism"
+title: "Feedback mechanism"
 author: "Jon Tennant"
 date: "18 December 2019"
 output:
