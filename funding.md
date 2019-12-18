@@ -1,4 +1,14 @@
-## Funding strategy
+---
+title: "Funding Strategy"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
+
+Here we will detail our potential funding opportunities and efforts. We will design a general proposal for funding, and we intend to publish this.
 
 ### Crowdfunding
 
