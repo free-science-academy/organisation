@@ -22,7 +22,7 @@ The simple goal here is to educate people properly about how to do science.
 
 Project in development
 
-3. Foundations for Open Scholarship Strategy Development
+3. [Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/)
 
 This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.
 
@@ -34,6 +34,12 @@ This document aims to agree on a broad, international strategy for the implement
 This subreddit collates the latest from the world of "open science"", including but not limited to open access, open data, open education, open peer review, and open source.
 
 6. Free Science vidcast
+
+
+7. Scholarly Communication super-collection
+
+
+8. Open Research Glossary
 
 
 ### Potential future project ideas

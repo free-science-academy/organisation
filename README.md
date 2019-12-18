@@ -1,4 +1,12 @@
-# Organisation
+---
+title: "Organisation"
+author: "Jon Tennant"
+date: "18 December 2019"
+output:
+  word_document: default
+  html_document: default
+  pdf_document: default
+---
 
 Welcome to the **Free Science Academy**! 
 
@@ -9,10 +17,9 @@ This repository contains all of our organisational tasks and files. For open dis
 1. [Rationale](#rationale)
 2. [Mission statement](#mission)
 3. [Core team](#team)
-4. [Code of Conduct](#coc)
-5. [Key files](#files)
-6. [Archiving](#archiving)
-7. [Licenses](#licenses)
+4. [Key files](#files)
+5. [Archiving](#archiving)
+6. [Licenses](#licenses)
 
 ## Rationale <a name="rationale"></a>
 
@@ -20,7 +27,7 @@ The [Berlin Open Science Meetup community](https://www.meetup.com/Berlin-Open-Sc
 
 In order to take this to the next level, and demonstrate leadership in this space, we propose progressing from the meetup group into a formal society, or [Verein](https://www.tbd.community/en/a/how-to-found-verein-charity-germany) -  a legal form of charitable organisation based in Germany. Our goal is to move beyond informal meetings and our own little advocacy bubble, and to help engage researchers and wider society in the principles, values, and practices associated with 'open science'.
 
-Our proposal for this is the development of the *Free Science Academy*, or FSA for short.
+Our proposal for this is the development of the **Free Science Academy**, or FSA for short.
 
 It is our understanding that, whatever the 'open science community' is, it is disorganised and fragmented, both internally and externaly and particularly with its messaging. Unlike the Free and Open Source Software movements, we feel it does not have the same philosophical underpinnings to help unite the community. We see our unique role in this space to formalise, legitimise, and coalesce the existing community and communities. The FSA is a fully democratic and decentralised organisation representing this.
 
@@ -49,60 +56,23 @@ In order to achieve this, we will operate at three core levels:
 2. Development of shared tools, services, and infrastructure supporting science.
 3. Community development.
 
-
-### Principles, virtues, and values that we follow and uphold:
-
-Integrity - We pledge to uphold the highest degrees of ethical and moral conduct, both as researchers and humans.
-
-Freedom - We act, and expect others to act, without constraints, except for those imposed by our own moral standards and beliefs.
-
-Accountability - We accept full responsibility for our actions and behaviours.
-
-Honesty - We never intentionally deceive or mislead others.
-
-Truth - We always strive to ascertain the truth, no matter the situation.
-
-Justice - To follow the function of the law and human rights, and encode them in our beliefs and practices.
-
-Tolerance - We are accepting of all individuals, no matter what their views or backgrounds are.
-
-Patience - To operate at a pace in which all members of the community can contribute in their capacities.
-
-Forgiveness - Any transgression can be forgiven.
-
-Courage - We stand up for what we believe in.
-
-
 ## Core team <a name="team"></a>
 
 The founding members include:
 
-* Wojciech F
-* Jon T
+* Wojciech Ffrancuzik
+* Jon Tennant
 * AK
 * PG
 * PM
 * IG
 * ET
 
-
-## Code of Conduct <a name="coc"></a>
-
-Our Code of Conduct is simple. We expect the highest ethical and moral standards for both research and all other aspects of life. We do not impose personal rules of practical conduct on any individual, save those that we expect within a well-functioning, mature society. 
-
-These are our guidelines, and they apply to all offline and online events and spaces regarding the FSA:
-
-* We follow the rule of the law, and believe this is sufficient for our CoC.
-* In general, we expect people to behave like well-socialised and mature adults within this community.
-* We believe that this includes talking to each other should an incident occur as a first means of conflict resolution.
-* Only if the above fails, will the founding members of the OSA intervene. Resolution to ensure that we can all co-exist peacefully together will always be our priority.
-* Any issues that arise that break the law should be reported to the relevant authorities following traditional procedures.
-
-
 ## Key files <a name="files"></a>
 
 * [Partnerships](partnerships.md) - Details of the different forms of partnership that contribute to this project.
 * [Contributing guidelines](contributing.md) - How to contribute to the development of the FSA.
+* [Code of Conduct](code-of-conduct.md) - The morals and values that we expect the community to adhere to.
 * [Projects](projects.md) - The different projects for which the FSA forms an umbrella to.
 * [Feedback mechanism](feedback.md) - Mechanisms for providing feedback to the FSA.
 * [Privacy](privacy.md) - User privacy information.

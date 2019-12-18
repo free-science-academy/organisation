@@ -10,8 +10,8 @@ This strategy describes the protocol used regarding all public-facing communicat
 * [FORCE11](mailto:f11discussion@force11.org)
 * [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK)
 * [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK)
-* [Accès ouvert](mailto:accesouvert@groupes.renater.fr) (note: from Serge Bauin, post in French)
-* [Italian OA list](mailto:oa-italia@openarchives.it) (note: from Elena Giglia, post in Italian)
+* [Accès ouvert](mailto:accesouvert@groupes.renater.fr) (note: post in French)
+* [Italian OA list](mailto:oa-italia@openarchives.it) (note: post in Italian)
 * [EU Open Data](mailto:euopendata@lists.okfn.org)
 * [Open Development](mailto:open-development@lists.okfn.org)
 * [Open Education](mailto:open-education@lists.okfn.org)
@@ -19,7 +19,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 * [EURODOC open science](mailto:open-science@eurodoc.net)
 
 ## Our social media channels
-- RBC
+- TBC
 
 ### Relevant Twitter organisations
 
