@@ -24,7 +24,7 @@ Here we will detail our potential funding opportunities and efforts. We will des
 
 * [SCOSS](https://scoss.org/), the Global Sustainability Coalition for Open Science Services
 
-* [Open Research Funders Group](http://www.orfg.org/news)
+* [Open Research Funders Group](http://www.orfg.org/news) - see [here](http://www.orfg.org/news/2019/12/20/open-research-funders-group-reaffirms-support-for-open-science) for the latest update.
 
 * [Institute for Venture Science](https://ivscience.org/resources/applicants)
 
