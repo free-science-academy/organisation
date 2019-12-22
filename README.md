@@ -10,6 +10,8 @@ output:
 
 Welcome to the **Free Science Academy**! 
 
+**OUR GOAL**: To emancipate global research from the hands of private industries by empowering researchers as catalysts of change.
+
 This repository contains all of our organisational tasks and files. For open discussions on our development, please see the [issue tracker](https://github.com/free-science-academy/organisation/issues).
 
 ## Table of Contents
