@@ -12,6 +12,7 @@ The whole point of the FSA is to combine pragmatism with ideology, principles wi
 
 These are the core projects within the FSA. Each of them are completely open for anyone to contribute to:
 
+* Political advocacy
 * Open Science Skills training for researchers
 *	Finding Oriented Research (Nanopublications)
 *	[Foundations for Open Scholarship Strategy Development](https://open-scholarship-strategy.github.io/site/)
@@ -22,6 +23,10 @@ These are the core projects within the FSA. Each of them are completely open for
 * The SciencOpen Scholarly Communication Super Collection
 
 ## More detailed descriptions and information for each
+
+### Political advocacy
+
+We will provide statements about key policy changes around the world relating to 'open science'. We will consult with our membership on all statements, and draft them openly.
 
 ### Open Science skills training
 
