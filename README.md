@@ -1,5 +1,5 @@
 ---
-title: "Organisation"
+title: "Free Science Academy"
 author: "Jon Tennant"
 date: "18 December 2019"
 output:

@@ -26,7 +26,7 @@ These are the core projects within the FSA. Each of them are completely open for
 
 ### Political advocacy
 
-We will provide statements about key policy changes around the world relating to 'open science'. We will consult with our membership on all statements, and draft them openly.
+We will publicise statements about key policy changes around the world relating to 'open science'. We will consult with our membership on all statements, and draft them openly.
 
 ### Open Science skills training
 
