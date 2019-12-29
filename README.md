@@ -8,32 +8,22 @@ output:
   pdf_document: default
 ---
 
+## Table of Contents
+
+1. [Welcome](#rationale)
+2. [Mission statement](#mission)
+3. [Core team](#team)
+4. [Get involved](#involved)
+5. [Archiving](#archiving)
+6. [Licenses](#licenses)
+
+## Welcome <a name="welcome"></a>
+
 Welcome to the **Free Science Academy**! 
 
 **OUR GOAL**: To emancipate global research from the hands of private industries by empowering researchers as catalysts of change.
 
-This repository contains all of our organisational tasks and files. For open discussions on our development, please see the [issue tracker](https://github.com/free-science-academy/organisation/issues).
-
-## Table of Contents
-
-1. [Rationale](#rationale)
-2. [Mission statement](#mission)
-3. [Core team](#team)
-4. [Key files](#files)
-5. [Archiving](#archiving)
-6. [Licenses](#licenses)
-
-## Rationale <a name="rationale"></a>
-
-The [Berlin Open Science Meetup community](https://www.meetup.com/Berlin-Open-Science-Meetup/) has now been active for around 5 years and has attracted more than 800 members. We consider this initiative to be largely a success. A number of informal ‘open science communities’ are now springing up all around Europe and the rest of the world. Most of these remain informal groups, associated with research institutes,
-
-In order to take this to the next level, and demonstrate leadership in this space, we propose progressing from the meetup group into a formal society, or [Verein](https://www.tbd.community/en/a/how-to-found-verein-charity-germany) -  a legal form of charitable organisation based in Germany. Our goal is to move beyond informal meetings and our own little advocacy bubble, and to help engage researchers and wider society in the principles, values, and practices associated with 'open science'.
-
-Our proposal for this is the development of the **Free Science Academy**, or FSA for short.
-
-It is our understanding that, whatever the 'open science community' is, it is disorganised and fragmented, both internally and externaly and particularly with its messaging. Unlike the Free and Open Source Software movements, we feel it does not have the same philosophical underpinnings to help unite the community. We see our unique role in this space to formalise, legitimise, and coalesce the existing community and communities. The FSA is a fully democratic and decentralised organisation representing this.
-
-The aims of the FSA are to help to legitimise the community, and give more recognition to open research practices. The primary expected outcome is the more structured growth of the community by providing a more comfortable and legal structure to be part of. We believe this is required to transform 'open science', 'open scholarship, and 'open research' into a real, formalised community and social movement.
+This repository contains all of our organisational tasks and files. For open discussions on our development, please see the [issue tracker](https://github.com/free-science-academy/organisation/issues) and our [contributing guidelines](contributing.md).
 
 We believe that it only takes a small number of caring, thoughtful, and committed citizens to become influential in society and catalyse real change for good. 
 
@@ -41,8 +31,11 @@ We believe that it only takes a small number of caring, thoughtful, and committe
 
 We have chosen this name specifically to indicate that we embrace both the ideologies and practices that underpin 'openness'. By 'free', we refer more to freedom, as in free speech and freedom of expression. We use 'academy' to represent that we will largely operate as a peer-to-peer community or network of learning, particularly around the values, principles, and practices associated with 'open science'. And 'science', well, because this is all about science.
 
-
 ## Mission statement <a name="mission"></a>
+
+It is our understanding that, whatever the 'open science community' is, it is disorganised and fragmented, both internally and externaly and particularly with its messaging. We see our unique role in this space to formalise, legitimise, and coalesce the existing community and communities. The FSA is a fully democratic and decentralised organisation representing this.
+
+The aims of the FSA are to help to legitimise the community, and give more recognition to open research practices. The primary expected outcome is the more structured growth of the community by providing a more comfortable and legal structure to be part of. We believe this is required to transform 'open science', 'open scholarship, and 'open research' into a real, formalised community and social movement.
 
 The FSA is an informal resurgence of the [Society for Free Science](https://www.nature.com/articles/154048a0), established in 1940 but now long since gone. We follow a revised version of their 5 core propositions, or fundamental freedoms:
 
@@ -70,29 +63,36 @@ The founding members include:
 * IG
 * ET
 
-## Key files <a name="files"></a>
+Find out more [about us](about-us.md).
 
-* [About us](about-us.md) - Details about the founding members 
-* [Partnerships](partnerships.md) - Details of the different forms of partnership that contribute to this project.
-* [Contributing guidelines](contributing.md) - How to contribute to the development of the FSA.
+## Get involved <a name="involved"></a>
+
+There are a number of ways that individuals and organisations can engage with the FSA.
+
+* Organisations can register interest in becoming strategic or institutional [partners](partnerships.md).
+
+* Check out the range of [projects](projects.md) that we offer and collaborate on.
+
+* Become a [member](membership.md) of the FSA!
+
+### Other
+
 * [Code of Conduct](code-of-conduct.md) - The morals and values that we expect the community to adhere to.
-* [Projects](projects.md) - The different projects for which the FSA forms an umbrella to.
 * [Feedback mechanism](feedback.md) - Mechanisms for providing feedback to the FSA.
 * [Privacy](privacy.md) - User privacy information.
-* [Membership](membership.md) - How to become a member of the FSA.
 * [Funding strategy](funding.md) - Our funding strategy and expenditures.
 * [Communication strategy](communications.md) - Our protocol for communication efforts.
 * [Roadmap](roadmap.md) - Our development plan for this project.
 * [Governance](governance.md) - What is the management structure for this project.
 * [Statute](statute.md) - The bylaws for the FSA.
 
-## Archiving <a name="archiving"></a>
+#### Archiving
 
 Full archiving of this project can be found on our dedicated [Zenodo community](https://zenodo.org/communities/free-science-academy/).
 
-## Licenses <a name="licenses"></a>
+#### Licenses 
 
-See [License](license.md) for information for this repository. We wave all rights to all original content for the FSA. We ask that if you use any of our content, you let us know and acknowledge us, but you are under no legal rights to do so.
+See [License](license.md) for information for this repository. We wave all rights to all original content for the FSA. We ask that if you use any of our content, you let us know and acknowledge us, but you are under no legal obligations to do so.
 
 ### Content 
 Content license: [![CC0 Public Domain Dedication](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

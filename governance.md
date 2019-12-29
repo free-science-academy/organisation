@@ -92,3 +92,4 @@ Proposed individuals:
 * Jan Velterop, Netherlands
 * William Gunn, USA
 * Etienne LeBel, Canada
+* Lonni Besancon, Sweden
