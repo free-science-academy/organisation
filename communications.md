@@ -70,7 +70,7 @@ This strategy describes the protocol used regarding all public-facing communicat
 
 ## Messaging
 
-* We are the first organisation to operate as a community-lef society within the free/open science space
+* We are the first organisation to operate as a community-led society within the free/open science space
 
 * We have decades of combined experience on advocacy, skills training, and research
 
